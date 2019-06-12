@@ -6,7 +6,7 @@
         sample-netlify-project
       </h1>
       <h2 class="subtitle">
-        My stylish Nuxt.js project
+        Hello Tech Lunch
       </h2>
       <div class="links">
         <a
