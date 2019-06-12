@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        sample-netlify-project
+        Develop
       </h1>
       <h2 class="subtitle">
         Hello Tech Lunch
